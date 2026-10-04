@@ -1,0 +1,210 @@
+[
+    {
+        "outputFile": "C:\\Users\\droid\\Desktop\\Blockinger-1.8.2-nomusic1\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 363
+                },
+                "from": {
+                    "file": "C:\\Users\\droid\\Desktop\\Blockinger-1.8.2-nomusic1\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1770,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 2078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 368,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 523
+                },
+                "from": {
+                    "file": "C:\\Users\\droid\\Desktop\\Blockinger-1.8.2-nomusic1\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2116,
+                        "endLine": 56,
+                        "endColumn": 12,
+                        "endOffset": 2271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 528,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 851
+                },
+                "from": {
+                    "file": "C:\\Users\\droid\\Desktop\\Blockinger-1.8.2-nomusic1\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 2753,
+                        "endLine": 73,
+                        "endColumn": 12,
+                        "endOffset": 3076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 856,
+                    "endColumn": 35,
+                    "endOffset": 887
+                },
+                "from": {
+                    "file": "C:\\Users\\droid\\Desktop\\Blockinger-1.8.2-nomusic1\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 3082,
+                        "endColumn": 36,
+                        "endOffset": 3114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 892,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1362
+                },
+                "from": {
+                    "file": "C:\\Users\\droid\\Desktop\\Blockinger-1.8.2-nomusic1\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2277,
+                        "endLine": 65,
+                        "endColumn": 12,
+                        "endOffset": 2747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1367,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 2204
+                },
+                "from": {
+                    "file": "C:\\Users\\droid\\Desktop\\Blockinger-1.8.2-nomusic1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v11\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2209,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 3016
+                },
+                "from": {
+                    "file": "C:\\Users\\droid\\Desktop\\Blockinger-1.8.2-nomusic1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v11\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3021,
+                    "endLine": 67,
+                    "endColumn": 12,
+                    "endOffset": 3840
+                },
+                "from": {
+                    "file": "C:\\Users\\droid\\Desktop\\Blockinger-1.8.2-nomusic1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v11\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 3845,
+                    "endLine": 83,
+                    "endColumn": 12,
+                    "endOffset": 4694
+                },
+                "from": {
+                    "file": "C:\\Users\\droid\\Desktop\\Blockinger-1.8.2-nomusic1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v11\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 4699,
+                    "endColumn": 112,
+                    "endOffset": 4807
+                },
+                "from": {
+                    "file": "C:\\Users\\droid\\Desktop\\Blockinger-1.8.2-nomusic1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v11\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 4812,
+                    "endColumn": 94,
+                    "endOffset": 4902
+                },
+                "from": {
+                    "file": "C:\\Users\\droid\\Desktop\\Blockinger-1.8.2-nomusic1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v11\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 4907,
+                    "endColumn": 116,
+                    "endOffset": 5019
+                },
+                "from": {
+                    "file": "C:\\Users\\droid\\Desktop\\Blockinger-1.8.2-nomusic1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v11\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 5024,
+                    "endColumn": 124,
+                    "endOffset": 5144
+                },
+                "from": {
+                    "file": "C:\\Users\\droid\\Desktop\\Blockinger-1.8.2-nomusic1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v11\\values.xml"
+                }
+            }
+        ]
+    }
+]

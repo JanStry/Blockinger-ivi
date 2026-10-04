@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\droid\\Desktop\\Blockinger-1.8.2-nomusic1\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\Users\\droid\\Desktop\\Blockinger-1.8.2-nomusic1\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1746,
+                        "endColumn": 58,
+                        "endOffset": 1800
+                    }
+                }
+            }
+        ]
+    }
+]

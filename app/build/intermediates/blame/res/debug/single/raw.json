@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\droid\\Desktop\\Blockinger-1.8.2-nomusic1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\drop_free.ogg",
+        "source": "C:\\Users\\droid\\Desktop\\Blockinger-1.8.2-nomusic1\\app\\src\\main\\res\\raw\\drop_free.ogg"
+    },
+    {
+        "merged": "C:\\Users\\droid\\Desktop\\Blockinger-1.8.2-nomusic1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gameover2_free.ogg",
+        "source": "C:\\Users\\droid\\Desktop\\Blockinger-1.8.2-nomusic1\\app\\src\\main\\res\\raw\\gameover2_free.ogg"
+    },
+    {
+        "merged": "C:\\Users\\droid\\Desktop\\Blockinger-1.8.2-nomusic1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\clear2_free.ogg",
+        "source": "C:\\Users\\droid\\Desktop\\Blockinger-1.8.2-nomusic1\\app\\src\\main\\res\\raw\\clear2_free.ogg"
+    },
+    {
+        "merged": "C:\\Users\\droid\\Desktop\\Blockinger-1.8.2-nomusic1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\tetris_free.ogg",
+        "source": "C:\\Users\\droid\\Desktop\\Blockinger-1.8.2-nomusic1\\app\\src\\main\\res\\raw\\tetris_free.ogg"
+    },
+    {
+        "merged": "C:\\Users\\droid\\Desktop\\Blockinger-1.8.2-nomusic1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\key_free.ogg",
+        "source": "C:\\Users\\droid\\Desktop\\Blockinger-1.8.2-nomusic1\\app\\src\\main\\res\\raw\\key_free.ogg"
+    }
+]
