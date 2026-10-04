@@ -1,6 +1,6 @@
-This is a recompiled version of Blockinger by JanStry: optimized to run on Intouch IVI systems.
+This is a modified version of Blockinger by JanStry: optimized to run on Intouch IVI systems.
 All credits go to the original developer of this wonderful game.
-Small modifications have been made to the app more appealing in 2026
+Small modifications have been made to the app more appealing in 2026 - converted to gradle
 
 
 Blockinger
